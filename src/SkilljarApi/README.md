@@ -3,6 +3,37 @@ A quick attempt to create a API client for the [Skilljar LMS API](https://api.sk
 
 **Note:** this library is incomplete and does not cover the entire API. Additional refactoring and error handling is needed. I will be adding to the library as I continue to consume more of the Skilljar API.
 
+|API Object	|Status|
+|-----------|:------:|
+|assets		|![Complete](https://img.icons8.com/?size=25&id=9fp9k4lPT8us&format=png&color=000000 "Completed Check Mark")|
+|courses	|![Complete](https://img.icons8.com/?size=25&id=9fp9k4lPT8us&format=png&color=000000 "Completed Check Mark")|
+|domains	|![In Process](https://img.icons8.com/?size=25&id=PUULuXvUfB6u&format=png&color=000000 "In Process Gear")		|
+|group-categories	|		|
+|groups	|		|
+|ilt-instructors	|		|
+|ilt-multi-session-events|		|
+|ilt-sessions	|		|
+|lesson-progress|		|
+|lessons|		|
+|offers	|		|
+|paths	|		|
+|ping	|![Complete](https://img.icons8.com/?size=25&id=9fp9k4lPT8us&format=png&color=000000 "Completed Check Mark")|
+|progresstokens	|		|
+|promo-code-pools|		|
+|promo-codes|		|
+|purchases	|		|
+|question-banks	|		|
+|quiz-questions	|		|
+|quizzes	|		|
+|training-credit-codes	|		|
+|users	|		|
+|vilt-session-events	|		|
+|vilt-session-registrations	|		|
+|web-packages	|		|
+|webhooks	|		|
+
+[Icons Provided by Icons8](https://icons8.com)
+
 ## Example Usage
 Get a list of domains for your skilljar instance
 ```csharp
